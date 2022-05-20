@@ -1,2 +1,2 @@
-# [KODLUYORUZ](https://www.kodluyoruz.org/)
+# [KODLUYORUZ.ORG](https://www.kodluyoruz.org/)
 # PATIKA.DEV
