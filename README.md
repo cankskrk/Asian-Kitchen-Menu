@@ -1,1 +1,2 @@
-# PATIKA.DEV-JS-HW-3
+# [KODLUYORUZ](https://www.kodluyoruz.org/)
+# PATIKA.DEV
